@@ -1,6 +1,8 @@
 ### 이솔 포트폴리오
 
 ------
+<img src="https://user-images.githubusercontent.com/76844556/167532561-c166fc2b-9491-40d1-a536-0ac299e474b1.JPG" width="300" height="400">
+
 
 <br/><br/>
 1️⃣ Intro
