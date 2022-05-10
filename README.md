@@ -2,7 +2,8 @@
 
 ------
 
-| 캐치 프레이즈. -- (개발자의 캐치프레이즈)
+| 
+
 <br/><br/>
 1️⃣ Intro
 
@@ -15,13 +16,14 @@ Node.js, Spring을 통한 서버 개발, 그리고 AWS 서비스를 통한 인�
 
 2️⃣ Contract
 
-- 이메일 : dlthf555@gmail.com
-- 블로그 : https://dev-pine.tistory.com/
-- 깃헙 : https://github.com/soleu
+- email : dlthf555@gmail.com
+- blog : https://dev-pine.tistory.com/
+- github : https://github.com/soleu
 <br/><br/>
 
 3️⃣ Projects
 
+<br/>
 1. 객관적 시선 🌡
 
 부정적인 감정을 제대로 인지하고, 자기객관화를 이끌어내는 다이어리 웹 서비스
@@ -72,6 +74,7 @@ Node.js, Spring을 통한 서버 개발, 그리고 AWS 서비스를 통한 인�
 
    프로젝트 상세 설명 [참고](https://github.com/bbangmap/BBangMap-Server)
 
+[Android](https://bit.ly/3IKrYcH) / [iOS](https://apple.co/3gifdKB)
 
 
 <br/>
