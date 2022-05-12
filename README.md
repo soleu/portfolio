@@ -1,8 +1,8 @@
 ### 이솔 포트폴리오
 
-------
-<img src="https://user-images.githubusercontent.com/76844556/167532561-c166fc2b-9491-40d1-a536-0ac299e474b1.JPG" width="300" height="400">
+---
 
+<img src="https://user-images.githubusercontent.com/76844556/167532561-c166fc2b-9491-40d1-a536-0ac299e474b1.JPG" width="300" height="400">
 
 <br/><br/>
 1️⃣ Intro
@@ -19,7 +19,7 @@ Node.js, Spring을 통한 서버 개발, 그리고 AWS 서비스를 통한 인�
 - email : dlthf555@gmail.com
 - blog : https://dev-pine.tistory.com/
 - github : https://github.com/soleu
-<br/><br/>
+  <br/><br/>
 
 3️⃣ Projects
 
@@ -28,13 +28,13 @@ Node.js, Spring을 통한 서버 개발, 그리고 AWS 서비스를 통한 인�
 
 부정적인 감정을 제대로 인지하고, 자기객관화를 이끌어내는 다이어리 웹 서비스
 
-   개발 기간 : 2022.03-19 ~
+개발 기간 : 2022.03-19 ~
 
-   기술 스택 : 
-   Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL /
-   H2 / MySQL / Spring Security / React 
+기술 스택 :
+Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL /
+H2 / MySQL / Spring Security / React
 
-   프로젝트 상세 설명 [참고](https://github.com/depromeet/11th_5team)
+프로젝트 상세 설명 [참고](https://github.com/depromeet/11th_5team)
 
 <br/>
 2. Youniverse💫
@@ -43,52 +43,50 @@ Node.js, Spring을 통한 서버 개발, 그리고 AWS 서비스를 통한 인�
 
 개발 기간 : 2022.03-01 ~
 
-   기술 스택 : 
-   Java 11 / Spring Boot / Gradle / Spring Data JPA
-   H2 / MySQL / Spring Security / React
+기술 스택 :
+Java 11 / Spring Boot / Gradle / Spring Data JPA
+H2 / MySQL / Spring Security / React
 
-   프로젝트 상세 설명 [참고](https://github.com/TeamYouniverse/Youniverse-Server-Release)
+프로젝트 상세 설명 [참고](https://github.com/TeamYouniverse/Youniverse-Server-Release)
 
  <br/>
  3. CARDNA 🃏
 
- 다양한 나를 펼치다, 나의 특성을 카드로 생성하여 진정한 '나'를 알아가는 private SNS 앱 서비스
+다양한 나를 펼치다, 나의 특성을 카드로 생성하여 진정한 '나'를 알아가는 private SNS 앱 서비스
 
- 개발 기간 : 2022.01.03 ~
+개발 기간 : 2022.01.03 ~
 
-   기술 스택 : 
-   Node.js / Javascript / PostgreSQL / Swift / Kotlin
+기술 스택 :
+Node.js / Javascript / PostgreSQL / Swift / Kotlin
 
-   프로젝트 상세 설명 [참고](https://github.com/TeamCARDNA/Cardna-Server)
-
+프로젝트 상세 설명 [참고](https://github.com/TeamCARDNA/Cardna-Server)
 
  <br/>
  4. 빵동여지도 🍞
 
 당신의 후회없는 빵 선택을 도와줄 국내 유일 브레드 맵, 지도기반 빵집 추천 앱 서비스
 
- 개발 기간 : 2021.10.01 ~ 2022.01.02 (버전업 진행 중)
+개발 기간 : 2021.10.01 ~ 2022.01.02 (버전업 진행 중)
 
-   기술 스택 : 
-   Node.js / Javascript / Sequelize / MySQL
-  / Swift / Kotlin
+기술 스택 :
+Node.js / Javascript / Sequelize / MySQL
+/ Swift / Kotlin
 
-   프로젝트 상세 설명 [참고](https://github.com/bbangmap/BBangMap-Server)
+프로젝트 상세 설명 [참고](https://github.com/bbangmap/BBangMap-Server-Docs/blob/main/README.md)
 
-   프로젝트 회고 [참고](https://dev-pine.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%B9%B5%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84?category=1072781)
+프로젝트 회고 [참고](https://dev-pine.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%B9%B5%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84?category=1072781)
 
 [Android](https://bit.ly/3IKrYcH) / [iOS](https://apple.co/3gifdKB)
-
 
 <br/>
 5. Mascota 🐶
 
 반려동물의 일상도 이별도 아름답게, 반려동물과의 일상과 펫로스 예방을 위한 다이어리 앱 서비스
 
- 개발 기간 : 2021.06.21 ~ 2021.07.17
+개발 기간 : 2021.06.21 ~ 2021.07.17
 
-   기술 스택 : 
-   Node.js / Typescript / MongoDB
-  / Swift / Kotlin
+기술 스택 :
+Node.js / Typescript / MongoDB
+/ Swift / Kotlin
 
-   프로젝트 상세 설명 [참고](https://github.com/TeamMascota/Mascota-Server)
+프로젝트 상세 설명 [참고](https://github.com/TeamMascota/Mascota-Server)
