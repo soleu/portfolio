@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/76844556/167532561-c166fc2b-9491-40d1-a536-0ac299e474b1.JPG" width="300" height="400">
 
 <br/><br/>
-1️⃣ Intro
+1️⃣ Intro 
 
 안풀릴 것 같은 문제를 마주할 때, 계속 생각하다보면 답을 찾아갈 수 있더라구요. 답을 찾아가는 과정, 그리고 그걸 해냈을 때의 쾌감과 성장이 서버 개발자로의 저의 진로를 결정하게 했습니다.
 
